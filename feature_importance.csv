@@ -1,0 +1,60 @@
+,mutual_info,rf_importance,rank_mi,rank_rf,avg_rank
+num__duration,0.03588,0.07078,3.0,3.0,3.0
+onehot__checking_status_no checking,0.06982,0.04991,1.0,5.0,3.0
+num__residence_since,0.02934,0.0309,5.0,8.0,6.5
+num__credit_amount,0.01449,0.09416,16.0,1.0,8.5
+onehot__employment_<1,0.037,0.01667,2.0,15.0,8.5
+onehot__property_magnitude_real estate,0.0247,0.01745,6.0,13.0,9.5
+onehot__credit_history_critical/other existing credit,0.01783,0.0208,10.0,10.0,10.0
+onehot__other_payment_plans_none,0.02001,0.01668,7.0,14.0,10.5
+target__purpose,0.0143,0.07071,17.0,4.0,10.5
+onehot__checking_status_<0,0.01326,0.03617,19.0,6.0,12.5
+onehot__property_magnitude_life insurance,0.03551,0.01402,4.0,23.0,13.5
+num__existing_credits,0.01496,0.01833,15.0,12.0,13.5
+onehot__other_payment_plans_bank,0.01852,0.01521,9.0,19.0,14.0
+onehot__employment_>=7,0.01774,0.01268,11.0,27.0,19.0
+onehot__job_unskilled resident,0.01674,0.01155,12.0,30.0,21.0
+onehot__employment_1<=X<4,0.01138,0.01402,21.0,22.0,21.5
+onehot__property_magnitude_car,0.00297,0.01534,31.0,17.0,24.0
+onehot__credit_history_all paid,0.01584,0.00975,13.0,37.0,25.0
+num__age,0.0,0.07695,48.5,2.0,25.25
+num__installment_commitment,0.0,0.03478,48.5,7.0,27.75
+onehot__property_magnitude_no known property,0.00597,0.01256,28.0,28.0,28.0
+onehot__savings_status_<100,0.0,0.02193,48.5,9.0,28.75
+onehot__housing_rent,0.01028,0.0104,24.0,34.0,29.0
+onehot__own_telephone_none,0.00508,0.012,30.0,29.0,29.5
+onehot__employment_4<=X<7,0.00904,0.01057,26.0,33.0,29.5
+onehot__housing_own,0.00169,0.01332,35.0,24.0,29.5
+onehot__checking_status_0<=X<200,0.0,0.0186,48.5,11.0,29.75
+onehot__credit_history_no credits/all paid,0.00998,0.01017,25.0,35.0,30.0
+onehot__housing_for free,0.01399,0.00741,18.0,42.0,30.0
+onehot__savings_status_>=1000,0.01959,0.00462,8.0,52.0,30.0
+num__missingindicator_existing_credits,0.00535,0.01073,29.0,32.0,30.5
+onehot__other_parties_co applicant,0.01503,0.00608,14.0,47.0,30.5
+onehot__personal_status_male single,0.0,0.01586,48.5,16.0,32.25
+num__missingindicator_installment_commitment,0.01249,0.00667,20.0,45.0,32.5
+onehot__job_skilled,0.0,0.01531,48.5,18.0,33.25
+onehot__personal_status_female div/dep/mar,0.0,0.0148,48.5,20.0,34.25
+num__missingindicator_residence_since,0.01091,0.00663,23.0,46.0,34.5
+onehot__credit_history_existing paid,0.0,0.01403,48.5,21.0,34.75
+onehot__job_high qualif/self emp/mgmt,0.00262,0.00973,32.0,38.0,35.0
+onehot__other_parties_guarantor,0.0113,0.00463,22.0,51.0,36.5
+onehot__own_telephone_yes,0.0,0.01312,48.5,25.0,36.75
+onehot__savings_status_no known savings,0.0,0.01298,48.5,26.0,37.25
+num__num_dependents,0.0,0.01148,48.5,31.0,39.75
+num__missingindicator_age,0.009,0.00364,27.0,56.0,41.5
+num__missingindicator_num_dependents,0.0021,0.00601,34.0,49.0,41.5
+onehot__credit_history_delayed previously,0.0,0.00989,48.5,36.0,42.25
+onehot__savings_status_100<=X<500,0.0,0.00883,48.5,39.0,43.75
+onehot__other_parties_none,0.0,0.00805,48.5,40.0,44.25
+onehot__savings_status_500<=X<1000,0.00126,0.00434,36.0,53.0,44.5
+onehot__personal_status_male mar/wid,0.0,0.00761,48.5,41.0,44.75
+onehot__foreign_worker_no,0.00222,0.00267,33.0,57.0,45.0
+onehot__checking_status_>=200,0.0,0.00713,48.5,43.0,45.75
+onehot__personal_status_male div/sep,0.0,0.0067,48.5,44.0,46.25
+onehot__job_unemp/unskilled non res,0.00012,0.00232,37.0,59.0,48.0
+onehot__employment_unemployed,0.0,0.00604,48.5,48.0,48.25
+onehot__other_payment_plans_stores,0.0,0.00563,48.5,50.0,49.25
+num__missingindicator_duration,0.0,0.00424,48.5,54.0,51.25
+num__missingindicator_credit_amount,0.0,0.00389,48.5,55.0,51.75
+onehot__foreign_worker_yes,0.0,0.00253,48.5,58.0,53.25
